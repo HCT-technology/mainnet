@@ -1,4 +1,4 @@
-# mainnet
+# HCT Mainnet
 Decentralized blockchain of HCT technolgoy @ CAN
 
  **HealthyChain（HCT）**一个去中心化的智能运动健康管理服务平台、基于区块链技术、AI智能可穿戴硬件、分布式节点、共同搭建完成 Healthy Chain 系统，实现全球分布式服务平台 DAPP。
